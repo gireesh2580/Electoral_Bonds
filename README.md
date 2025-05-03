@@ -1,6 +1,6 @@
 # Electoral_Bonds
 
-Electoral Bond Scheme Timeline
+#Electoral Bond Scheme Timeline
 2016
 
 May 14: The Finance Act, 2016 amends the Foreign Contribution Regulation Act, 2010, allowing foreign companies with subsidiaries in India to donate to political parties.
