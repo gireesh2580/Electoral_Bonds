@@ -1,6 +1,6 @@
 # 🗳️ Electoral_Bonds
 
-Visually Appealing Timeline[Link](https://www.scobserver.in/journal/a-complete-timeline-of-the-electoral-bond-scheme/)
+Visually Appealing Timeline - [Link](https://www.scobserver.in/journal/a-complete-timeline-of-the-electoral-bond-scheme/)
 ## 📅 Electoral Bond Scheme Timeline
 
 ### **2016**
